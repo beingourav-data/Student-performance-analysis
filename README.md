@@ -22,7 +22,7 @@ Interactive Power BI dashboard to analyze student performance by gender, test pr
 - Slicers (Gender, Test Prep, Ethnicity, Parental Edu)
 
 ## Preview
-![Dashboard](dashboard-preview.jpg)
+https://github.com/beingourav-data/Student-performance-analysis/blob/main/Dashboard_preview.jpg
 
 ## Tools Used
 Power BI Desktop | Power Query | DAX
